@@ -1,0 +1,12 @@
+.button{
+    display:inline-block;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 20px;
+    background-color: #F25A70;
+    box-shadow:5px 5px #000;
+}
+.button:hover{
+background-color: #993a48;
+box-shadow:2px 2px #000;
+}

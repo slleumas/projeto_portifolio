@@ -1,0 +1,38 @@
+.section-01{
+    background-image: url(../assets/img/photo01.png);
+    background-repeat: no-repeat;
+    height:797px;
+    border-bottom: 10px solid black;
+}
+.section-div-01{
+    background-image: url(../assets/img/photo.png);
+    background-repeat: no-repeat;
+    border-right: 5px solid black;
+    width: 955px;
+    height:797px;  
+}
+.section-div-02{
+    padding: 116px 0 0 91px;
+    width: 640px;
+    
+}
+
+.section-div-texto{
+    display: flex;
+    flex-direction: column;
+    background-color: #3A4042;
+    box-shadow: 10px 10px 0 black;
+    text-align: center;
+    width: 627px;
+    padding: 42px 0;
+}
+.section-div-texto h2{
+    text-shadow: 5px 5px 0 black;
+}
+.navegation{
+    display: flex;
+    justify-content: space-around;
+    padding-top:38px;
+    width: 100%;
+}
+
