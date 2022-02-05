@@ -1,5 +1,16 @@
-h2{
+.subtitle{
     font-size: 30px;
     color: #fff;
     font-family: 'Press Start 2P', cursive;
+    text-shadow: 5px 5px 0 black;
+}
+.subtitle.-second{
+    text-shadow: none;
+}
+
+h3{
+    font-size: 25px;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+
 }

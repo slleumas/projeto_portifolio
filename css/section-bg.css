@@ -26,9 +26,6 @@
     width: 627px;
     padding: 42px 0;
 }
-.section-div-texto h2{
-    text-shadow: 5px 5px 0 black;
-}
 .navegation{
     display: flex;
     justify-content: space-around;
